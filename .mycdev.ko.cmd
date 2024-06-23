@@ -1,0 +1,1 @@
+cmd_/home/linux/work/linux_driver/interview/mycdev.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/linux/work/linux_driver/interview/mycdev.ko /home/linux/work/linux_driver/interview/mycdev.o /home/linux/work/linux_driver/interview/mycdev.mod.o;  true

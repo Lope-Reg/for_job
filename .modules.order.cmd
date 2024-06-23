@@ -1,1 +1,1 @@
-cmd_/home/linux/work/linux_driver/interview_1/modules.order := {   echo /home/linux/work/linux_driver/interview_1/driver.ko; :; } | awk '!x[$$0]++' - > /home/linux/work/linux_driver/interview_1/modules.order
+cmd_/home/linux/work/linux_driver/interview/modules.order := {   echo /home/linux/work/linux_driver/interview/mycdev.ko; :; } | awk '!x[$$0]++' - > /home/linux/work/linux_driver/interview/modules.order
